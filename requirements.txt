@@ -1,0 +1,5 @@
+Flask == 0.10.1
+flask_restplus == 0.10.1
+pytz == 2015.7
+rfc3987 == 1.3.7
+elasticsearch==5.4.0
